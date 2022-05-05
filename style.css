@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+*{
+    margin: 0PX;
+    border: 0PX;
+    Font-family: 'Open Sans', sans-serif;
+
+}
+
+.container{
+    max-width: 1100px;
+}
+
+
+.navbar{
+    background-color:#52a2da ;
+    
+    
+} 
+
+ .notifi{
+    background-color: #a07cbc;
+    border-top-left-radius:16px;
+    border-bottom-left-radius:16px;
+}
+.support-res {
+    background-color: #e9ecef;
+}
+
+.magazine{
+    background-color: #e9ecef;
+}
+
+.floating-img{
+    position: relative;
+    top: -45px;
+}
+.global{
+    background-color: #e9ecef;
+}
+
+.footer{
+    background-color: #343a40 ;
+}
+.footer-text li{
+    color: gray;
+}
+
+.footer-text p{
+    color: white;
+}
+.logos i{
+    width: 23px;
+    height: 26px;
+    font-size: 12px;
+}
+
+.ftr p{
+color: white;
+font-size: 20px;
+font-weight: 700;
+
+}
+
+.footer ul{
+    list-style: none;
+    padding-left: 0;
+    font-weight: 400;
+}
+
+.magazine-disc {
+    min-height: 150px;
+}
+
+.want-more-size{
+    min-height: 322px;
+    position: relative;
+}
+
+.sub-footers{
+    position: absolute;
+    bottom: 15px;
+    right: 27px;
+}
